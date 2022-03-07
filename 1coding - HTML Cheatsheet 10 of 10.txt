@@ -1,0 +1,189 @@
+BIG HTML CHEATSHEET 1/10 - 2/10
+BIG HTML CHEATSHEET 1/10 - 10/10
+
+1/10
+2/10
+Document Outline
+<!IDOCTYPE> Version of (X) HTML
+<html> HTML Document
+<head> Page Information
+<body> Page Contents
+
+Document Structure
+<h1>-<h6> Heading
+<div> Page section
+<span> Inline section
+<p> Paragraph
+<br/> Line break
+<hr/> Horizontal rule
+
+Page Information
+<base /> Base URL
+<meta /> Meta
+<title /> Title
+<style> Style resource
+<script> Script resource
+
+Links
+<a href=""> Page link
+<a href="mailto"> E-mail link
+<a href="name"> Anchor
+<a href="#name"> Link to anchor
+
+Tabels
+<table> Table
+<capture> Capture
+<thread> Thread
+<tbody> Table body
+<tfoot> Table foot
+<colgroup> Table Column group
+<col /> Table column
+<tr> Table row
+<th> Table head cell
+<td> Table cell
+
+Forms
+<form> Form
+<fieldset> Collection of fields
+<legend> From legend
+<table> Input label
+<input /> From input
+<select> Dropdown box
+<textarea> Large input text
+<input type="checkbox"> Checkbox
+<input type="radio"> Radio button
+<input type="text"> Text input
+<input type="submit"> Submit button
+<input type="reset"> Reset button
+<optgroup> Group of options
+<option> Dropdown options
+<textarea> Large input text
+<button> Button
+
+BIG HTML CHEATSHEET 1/10
+HTML Cheatsheet 1/8
+HTML Cheatsheet 3/8
+HTML Cheatsheet 5/8
+HTML Cheatsheet 7/8
+
+BIG HTML CHEATSHEET 2/10
+HTML Cheatsheet 1/8
+HTML Cheatsheet 2/8
+HTML Cheatsheet 3/8
+HTML Cheatsheet 4/8
+HTML Cheatsheet 5/8
+HTML Cheatsheet 6/8
+HTML Cheatsheet 7/8
+HTML Cheatsheet 8/8
+
+BIG HTML CHEATSHEET 3/10
+Documents Outlines
+<!IDOCTYPE> Version of (X) HTML
+<html> HTML Document
+<head> Page Information
+<body> Page Contents
+
+BIG HTML CHEATSHEET 4/10
+Documents Structures
+<h1>-<h6> Heading
+<div> Page section
+<span> Inline section
+<p> Paragraph
+<br /> Line break
+<hr /> Horizontal rule
+
+HTML CHEATSHEET 6/10 5/10
+Links Links
+<a href=""> Page link
+<a href="mailto"> E-mail link
+<a href="name"> Anchor
+<a href="#name"> Link to anchor
+
+HTML CHEATSHEET 6/10
+Page Information
+<base /> Base URL
+<meta /> Meta
+<title /> Title
+<style> Style resource
+<script> Script resource
+
+BIG HTML CHEATSHEET 7/10
+Tabels Tables
+
+BIG HTML CHEATSHEET 8/10
+<table> Table
+<capture> Capture
+<thread> Thread
+<tbody> Table body
+<tfoot> Table foot
+<colgroup> Table Column group
+<col /> Table column
+<tr> Table row
+<th> Table head cell
+<td> Table cell
+Forms 1.0
+
+<form> Form
+<fieldset> Collection of fields
+<legend> From legend
+<table> Input label
+<input /> From input
+<select> Dropdown box
+<optgroup> Group of options
+<option> Dropdown options
+Forms 1.0
+
+BIG HTML CHEATSHEET 8/10
+
+<form> Form
+<fieldset> Collection of fields
+<legend> From legend
+<table> Input label
+<input /> From input
+<select> Dropdown box
+<optgroup> Group of options
+<option> Dropdown options
+<textarea> Large input text
+<button> Button
+<input type="checkbox"> Checkbox
+<input type="radio"> Radio button
+<input type="text"> Text input
+<input type="submit"> Submit button
+<input type="reset"> Reset button
+Forms 1.0
+
+BIG HTML CHEATSHEET 9/10
+
+<form> Form
+<fieldset> Collection of fields
+<legend> From legend
+<table> Input label
+<input /> From input
+<select> Dropdown box
+<optgroup> Group of options
+<option> Dropdown options
+<textarea> Large input text
+<button> Button
+Forms 1.0
+
+BIG HTML CHEATSHEET 10/10
+
+<form> Form
+<fieldset> Collection of fields
+<legend> From legend
+<table> Input label
+<input /> From input
+<select> Dropdown box
+<optgroup> Group of options
+<option> Dropdown options
+<textarea> Large input text
+<button> Button
+Forms 1.02
+Forms 2.01
+
+<input type="text"> Text input
+<input type="submit"> Submit button
+<input type="reset"> Reset button
+<input type="radio"> Radio button
+<input type="checkbox"> Checkbox
+Forms 1.0
