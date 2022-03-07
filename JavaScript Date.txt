@@ -1,0 +1,18 @@
+JavaScript Date
+The date object is used to work with dates and times.
+28.4.2021
+
+const date = new Date();
+date.getFullYear(); // returns 2021
+date.getMonth(); // returns 3 (from 0-11) 1-12
+date.getDate(); // returns 27 (from 1-31) 1-31
+date.getDay(); // returns 3 (from 0-6) 1-7
+date.getHours(); // returns 19
+date.getMinutes(); // returns 16
+date.getSeconds(); // returns 10
+date.getTime(); // The number of milliseconds , 
+date.getTime(); // Since night from Jan 1 1970
+
+JS
+JavaScript Date Description
+
